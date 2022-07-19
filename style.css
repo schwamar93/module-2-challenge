@@ -44,7 +44,6 @@ nav a:hover {
 }
 
 aside {
-    width: 100%;
     margin: 0;
 }
 aside h3, .first h3 {
@@ -70,8 +69,6 @@ aside h3, .first h3 {
     flex-wrap: wrap;
     justify-content: center;
     width: 80%;
-   
-
 }
 
 @media (max-width: 1340px) {
@@ -82,13 +79,13 @@ aside h3, .first h3 {
     }
 }
 aside {
-    width: 90%;
     margin-left: -14px;
     position: relative;
-    text-align: left;
+    text-align: center;
     color: rgb(72, 67, 67);
     font-size: 25px;
     flex-direction: row;
+     margin: auto;
 }
 aside h3 {
     position: absolute;
