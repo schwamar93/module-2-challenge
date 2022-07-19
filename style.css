@@ -85,7 +85,8 @@ aside {
     color: rgb(72, 67, 67);
     font-size: 25px;
     flex-direction: row;
-     margin: auto;
+    margin: auto;
+
 }
 aside h3 {
     position: absolute;
