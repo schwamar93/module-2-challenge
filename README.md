@@ -1,4 +1,4 @@
-# module-2-challenge
+# portfolio-draft
 portfolio
 
 Created a working portfolio following the grading criteria listed on the assignment page. 
