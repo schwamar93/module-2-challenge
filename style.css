@@ -19,6 +19,7 @@ header {
     padding: 2px;
     width: 100%;
 }
+
 h1 {
     font-size: 16px;
 }
@@ -62,7 +63,7 @@ aside h3, .first h3 {
     height: 200px;
     display: flex;
     margin-top: 2%;
-    width: 50%;
+
 }
 .list-work {
     display: flex;
@@ -81,7 +82,6 @@ aside h3, .first h3 {
 aside {
     margin-left: -14px;
     position: relative;
-    text-align: center;
     color: rgb(72, 67, 67);
     font-size: 25px;
     flex-direction: row;
